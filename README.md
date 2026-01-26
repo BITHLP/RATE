@@ -2,7 +2,9 @@ Official repository of **"Beyond Literal Mapping: Benchmarking and Improving Non
 [![arXiv](https://img.shields.io/badge/arXiv-2601.07338-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.07338)
 
 ## 🌟 The MENT Dataset
-We introduce **MENT** (<u>M</u>eta-<u>E</u>valuation dataset of <u>N</u>on-Literal <u>T</u>ranslation), a human-annotated meta-evaluation dataset to systematically assess MT evaluation metrics. Download: You can download the dataset from [![HuggingFace](https://img.shields.io/badge/HuggingFace-MENT-ffd700?logo=huggingface&logoColor=yellow)](https://huggingface.co/datasets/yztian/MENT).
+We introduce **MENT** (<u>M</u>eta-<u>E</u>valuation dataset of <u>N</u>on-Literal <u>T</u>ranslation), a human-annotated meta-evaluation dataset to systematically assess MT evaluation metrics. 
+
+Download: You can download the dataset from [![HuggingFace](https://img.shields.io/badge/HuggingFace-MENT-ffd700?logo=huggingface&logoColor=yellow)](https://huggingface.co/datasets/yztian/MENT).
 
 <p align="center"> <img src="assets/data.png" width="800">
 
